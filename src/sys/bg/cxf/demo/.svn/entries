@@ -1,0 +1,43 @@
+8
+
+dir
+5
+http://www.svnchina.com/svn/wulin/budget/src/sys/bg/cxf/demo
+http://www.svnchina.com/svn/wulin
+
+
+
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7973a7f8-c94e-41d5-be71-f9300f26fad0
+
+WebServiceDemoI.java
+file
+
+
+
+
+2014-06-20T01:28:42.100000Z
+c476baa1c339e208c88d7861a0785942
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+impl
+dir
+

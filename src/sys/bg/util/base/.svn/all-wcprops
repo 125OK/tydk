@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base
+END
+File404Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/File404Filter.java
+END
+testHttp.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/testHttp.java
+END
+DBAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/DBAdapter.java
+END
+Ticket.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/Ticket.java
+END
+xmlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/xmlEntity.java
+END
+HighchartsUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/HighchartsUtil.java
+END
+Oracle10gDialect.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/Oracle10gDialect.java
+END
+HqlFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/HqlFilter.java
+END
+MysqlDbManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/MysqlDbManager.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/Test.java
+END
+FastjsonFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/FastjsonFilter.java
+END
+PoiUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/PoiUtil.java
+END
+ReflectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/ReflectionUtil.java
+END
+IpUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/IpUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/DateUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/StringUtil.java
+END
+ConfigUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/ConfigUtil.java
+END
+MD5Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/MD5Util.java
+END
+PlUploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/PlUploadServlet.java
+END
+Sign.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/Sign.java
+END
+ClobUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/ClobUtil.java
+END
+UEditorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/UEditorUtil.java
+END
+SessionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/SessionFilter.java
+END
+BeanUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/BeanUtils.java
+END
+OnlineListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/OnlineListener.java
+END
+SecurityUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/util/base/SecurityUtil.java
+END

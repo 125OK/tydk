@@ -1,0 +1,67 @@
+8
+
+dir
+5
+http://www.svnchina.com/svn/wulin/budget/WebContent/jslib/ueditor1_2_6_1-utf8-jsp/dialogs/video
+http://www.svnchina.com/svn/wulin
+
+
+
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7973a7f8-c94e-41d5-be71-f9300f26fad0
+
+images
+dir
+
+video.css
+file
+
+
+
+
+2013-09-29T06:06:11.089000Z
+35ab4741071403c73724b6f6040874e6
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+video.html
+file
+
+
+
+
+2016-02-22T07:13:37.430000Z
+31be71f5a1c473ece196c77504e2fb39
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+video.js
+file
+
+
+
+
+2013-09-29T06:06:11.104000Z
+c520eeee5722ba129f6c2667bd782c7d
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+

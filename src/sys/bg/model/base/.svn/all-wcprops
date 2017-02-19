@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base
+END
+Syresource.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syresource.java
+END
+Syorganization.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syorganization.java
+END
+SysDatadicType.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/SysDatadicType.java
+END
+Syonline.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syonline.java
+END
+Syresourcetype.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syresourcetype.java
+END
+SessionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/SessionInfo.java
+END
+SysDatadicDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/SysDatadicDetail.java
+END
+Syuser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syuser.java
+END
+Syrole.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/model/base/Syrole.java
+END

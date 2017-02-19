@@ -1,0 +1,41 @@
+8
+
+dir
+5
+http://www.svnchina.com/svn/wulin/budget/WebContent/jslib/ueditor1_2_6_1-utf8-jsp/third-party/snapscreen
+http://www.svnchina.com/svn/wulin
+
+
+
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7973a7f8-c94e-41d5-be71-f9300f26fad0
+
+UEditorSnapscreen.exe
+file
+
+
+
+
+2013-09-29T06:06:11.344000Z
+e4d2dd20f706c7cbde2184f38b1de09f
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+has-props
+

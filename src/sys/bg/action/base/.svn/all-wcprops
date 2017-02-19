@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base
+END
+SyorganizationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyorganizationAction.java
+END
+SyresourcetypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyresourcetypeAction.java
+END
+SyuserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyuserAction.java
+END
+SyroleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyroleAction.java
+END
+SyonlineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyonlineAction.java
+END
+SyresourceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/action/base/SyresourceAction.java
+END

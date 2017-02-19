@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl
+END
+SyresourcetypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyresourcetypeServiceImpl.java
+END
+SyresourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyresourceServiceImpl.java
+END
+SyuserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyuserServiceImpl.java
+END
+SyroleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyroleServiceImpl.java
+END
+SyonlineServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyonlineServiceImpl.java
+END
+SyorganizationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/service/base/impl/SyorganizationServiceImpl.java
+END

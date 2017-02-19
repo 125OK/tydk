@@ -1,0 +1,79 @@
+8
+
+dir
+5
+http://www.svnchina.com/svn/wulin/budget/WebContent/securityJsp
+http://www.svnchina.com/svn/wulin
+
+
+
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7973a7f8-c94e-41d5-be71-f9300f26fad0
+
+base
+dir
+
+main.jsp
+file
+
+
+
+
+2014-04-12T03:30:32.662000Z
+15a0fa6e1d63649a900ca9f4d3a7968d
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+north.jsp
+file
+
+
+
+
+2014-04-12T03:30:32.585000Z
+415be07a02a459535851a58bfc742f50
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+south.jsp
+file
+
+
+
+
+2014-04-12T02:19:27.280000Z
+27532bc63174fa7ab468ef49f4370ba0
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+
+userInfo.jsp
+file
+
+
+
+
+2014-04-12T03:30:32.645000Z
+eb72e277b9a310f724d40e316a9faba9
+2016-03-09T06:46:22.359167Z
+5
+zidy1234
+

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/interceptor/base
+END
+EncodingInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/interceptor/base/EncodingInterceptor.java
+END
+SessionInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/interceptor/base/SessionInterceptor.java
+END
+SecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/wulin/!svn/ver/5/budget/src/sys/bg/interceptor/base/SecurityInterceptor.java
+END
